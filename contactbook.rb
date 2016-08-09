@@ -3,13 +3,13 @@
 quit = false
 
 contact_book = {
-"Alex Marvick" => "(425) 681.8713",
-"Michael Marvick" => "(425) 681.3383",
-"Marguerite Shea" => "(206) 999.7355",
-"Mike Marvick" => "(206) 999.4999",
-"Nick Blackbourn" => "(206) 407.9063",
-"Matt Rouse" => "(650) 235.6994",
-"Freddy Paulenich" => "(415) 450.0581",
+"Alex Marvick" => "(999) 999.9999",
+"Michael Marvick" => "(888) 888.8888",
+"Marguerite Shea" => "(777) 777.7777",
+"Mike Marvick" => "(666) 666.6666",
+"Nick Blackbourn" => "(555) 555.5555",
+"Matt Rouse" => "(444) 444.4444",
+"Freddy Paulenich" => "(333) 333.3333",
 }
 
 until(quit)
